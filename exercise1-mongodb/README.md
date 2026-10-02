@@ -1,0 +1,1 @@
+MongoDB is schema-less because documents in the same collection do not have to contain exactly the same fields or structure. For example, one student can have a phone field, while another student can have an address or skills field. MongoDB allows this flexible document structure without requiring every document to follow one fixed schema.
